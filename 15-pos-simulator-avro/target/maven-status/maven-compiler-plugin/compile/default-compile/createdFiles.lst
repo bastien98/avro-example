@@ -1,0 +1,15 @@
+thesis\avro\example\datagenerator\AddressGenerator.class
+thesis\avro\example\types\PosInvoice.class
+thesis\avro\example\PosSimulator.class
+thesis\avro\example\types\DeliveryAddress$1.class
+thesis\avro\example\types\LineItem.class
+thesis\avro\example\types\PosInvoice$1.class
+thesis\avro\example\types\PosInvoice$Builder.class
+thesis\avro\example\datagenerator\InvoiceGenerator.class
+thesis\avro\example\AppConfigs.class
+thesis\avro\example\types\LineItem$1.class
+thesis\avro\example\types\LineItem$Builder.class
+thesis\avro\example\types\DeliveryAddress$Builder.class
+thesis\avro\example\RunnableProducer.class
+thesis\avro\example\types\DeliveryAddress.class
+thesis\avro\example\datagenerator\ProductGenerator.class
